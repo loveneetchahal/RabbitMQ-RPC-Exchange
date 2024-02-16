@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ_RPC_Exchange.Order", "RabbitMQ_RPC_Exchange.Order\RabbitMQ_RPC_Exchange.Order.csproj", "{1366B9F2-AAEF-4166-9A7B-CEA36601079D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ_RPC_Exchange.Product", "RabbitMQ_RPC_Exchange.Product\RabbitMQ_RPC_Exchange.Product.csproj", "{0A52EED4-BDC9-4F96-BE33-EF3F0C21AFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ_RPC_Exchange.Shared", "RabbitMQ_RPC_Exchange.Shared\RabbitMQ_RPC_Exchange.Shared.csproj", "{E45FA3E7-FF78-4D33-8D62-3E807A561759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1366B9F2-AAEF-4166-9A7B-CEA36601079D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1366B9F2-AAEF-4166-9A7B-CEA36601079D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1366B9F2-AAEF-4166-9A7B-CEA36601079D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1366B9F2-AAEF-4166-9A7B-CEA36601079D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A52EED4-BDC9-4F96-BE33-EF3F0C21AFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A52EED4-BDC9-4F96-BE33-EF3F0C21AFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A52EED4-BDC9-4F96-BE33-EF3F0C21AFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A52EED4-BDC9-4F96-BE33-EF3F0C21AFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45FA3E7-FF78-4D33-8D62-3E807A561759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45FA3E7-FF78-4D33-8D62-3E807A561759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45FA3E7-FF78-4D33-8D62-3E807A561759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45FA3E7-FF78-4D33-8D62-3E807A561759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D124F8DB-DA70-44A3-9733-AB3F9300F114}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RabbitMQ_RPC_Exchange.Order.props" />
+</Project>

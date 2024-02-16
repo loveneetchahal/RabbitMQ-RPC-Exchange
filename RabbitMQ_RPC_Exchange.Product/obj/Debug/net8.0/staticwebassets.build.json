@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dyQG39uKKtMovZrDNIu5NqdCxRWxSZJzmA+M8a3oFQk=",
+  "Source": "RabbitMQ_RPC_Exchange.Product",
+  "BasePath": "_content/RabbitMQ_RPC_Exchange.Product",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

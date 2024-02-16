@@ -1,0 +1,6 @@
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\RabbitMQ_RPC_Exchange\RabbitMQ_RPC_Exchange.Order\obj\Debug\net8.0\RabbitMQ_RPC_Exchange.Order.csproj.AssemblyReference.cache
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\RabbitMQ_RPC_Exchange\RabbitMQ_RPC_Exchange.Order\obj\Debug\net8.0\RabbitMQ_RPC_Exchange.Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\RabbitMQ_RPC_Exchange\RabbitMQ_RPC_Exchange.Order\obj\Debug\net8.0\RabbitMQ_RPC_Exchange.Order.AssemblyInfoInputs.cache
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\RabbitMQ_RPC_Exchange\RabbitMQ_RPC_Exchange.Order\obj\Debug\net8.0\RabbitMQ_RPC_Exchange.Order.AssemblyInfo.cs
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\RabbitMQ_RPC_Exchange\RabbitMQ_RPC_Exchange.Order\obj\Debug\net8.0\RabbitMQ_RPC_Exchange.Order.csproj.CoreCompileInputs.cache
+C:\Users\LoveneetChahal\Projects\LoveneetChahal\RabbitMQ_RPC_Exchange\RabbitMQ_RPC_Exchange.Order\obj\Debug\net8.0\RabbitMQ_RPC_Exchange.Order.MvcApplicationPartsAssemblyInfo.cache

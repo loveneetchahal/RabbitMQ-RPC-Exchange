@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RabbitMQ_RPC_Exchange.Product.props" />
+</Project>

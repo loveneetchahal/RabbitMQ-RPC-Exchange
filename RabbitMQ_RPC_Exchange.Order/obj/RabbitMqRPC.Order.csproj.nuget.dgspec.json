@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Order\\RabbitMQ_RPC_Exchange.Order.csproj": {}
+  },
+  "projects": {
+    "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Order\\RabbitMQ_RPC_Exchange.Order.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Order\\RabbitMQ_RPC_Exchange.Order.csproj",
+        "projectName": "RabbitMQ_RPC_Exchange.Order",
+        "projectPath": "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Order\\RabbitMQ_RPC_Exchange.Order.csproj",
+        "packagesPath": "C:\\Users\\ShaileshKumar\\.nuget\\packages\\",
+        "outputPath": "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Order\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ShaileshKumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Shared\\RabbitMQ_RPC_Exchange.Shared.csproj": {
+                "projectPath": "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Shared\\RabbitMQ_RPC_Exchange.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Shared\\RabbitMQ_RPC_Exchange.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Shared\\RabbitMQ_RPC_Exchange.Shared.csproj",
+        "projectName": "RabbitMQ_RPC_Exchange.Shared",
+        "projectPath": "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Shared\\RabbitMQ_RPC_Exchange.Shared.csproj",
+        "packagesPath": "C:\\Users\\ShaileshKumar\\.nuget\\packages\\",
+        "outputPath": "C:\\project\\ReactPOCs\\RabbitMQ\\RabbitMQ_RPC_Exchange\\RabbitMQ_RPC_Exchange.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ShaileshKumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
